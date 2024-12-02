@@ -46,8 +46,6 @@ coverage
 build
 .vercel
 .next
-package-lock.json
-package.json
 
 
 # Editor directories and files
